@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d28a3003-43e4-4740-950b-545040bf7599" name="Changes" comment="init java">
-      <change afterPath="$PROJECT_DIR$/src/Genou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Minutes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685691273120</updated>
       <workItem from="1685691274163" duration="9270000" />
-      <workItem from="1685706254931" duration="1173000" />
+      <workItem from="1685706254931" duration="4698000" />
     </task>
     <task id="LOCAL-00001" summary="init java">
       <created>1685691390991</created>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685706276582</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init java">
+      <created>1685708638676</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685708638676</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
